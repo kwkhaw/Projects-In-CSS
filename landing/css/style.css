@@ -1,0 +1,91 @@
+body {
+    font-family: 'Lato', sans-serif;
+    font-size:15px;
+    line-height:1.5em;
+}
+
+#container {
+    width:70%;
+    margin: 10px auto;
+    background: #fff;
+    overflow: auto;
+}
+
+p {
+    margin: 10px 0;
+    line-height: 1.5em;
+}
+
+h1 {
+    font-size: 39px;
+    font-weight: bold;
+    margin: 20px 0 10px 0;
+    line-height: 1.2em;
+}
+
+h3 {
+    font-size: 22px;
+    margin: 10px 0;
+}
+
+h4 {
+    font-size: 19px;
+    margin: 10px 0;
+}
+
+strong {
+    font-weight: bold;
+}
+
+.clearfix {
+    clear: both;
+}
+
+header#main-header {
+    border-bottom: 4px solid #4ea0d8;
+}
+
+img#logo {
+    margin: auto;
+    display: block;
+}
+
+#main-text {
+    text-align: center;
+    color: #333;
+    padding: 10px;
+    margin-bottom: 20px;
+}
+
+#sub-1 {
+    float: left;
+    width: 48%;
+}
+
+#sub-2 {
+    float: right;
+    width: 48%;
+}
+
+.points li {
+    margin-bottom: 30px;
+}
+
+.points img {
+    float: left;
+    margin-right: 7px;
+}
+
+.points h4 {
+    padding-top: 5px;
+}
+
+#contact-form {
+
+}
+
+.content-footer {
+    border-top: #ddd solid 1px;
+    margin-bottom: 20px;
+    padding-bottom: 10px;
+}
